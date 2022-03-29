@@ -1,5 +1,9 @@
 # Задча для отбора на кафедру КИС
 
+## 0. Ссылка на google-colab
+
+https://colab.research.google.com/drive/1WP0_DamrWE04f0pUVbK2o4pA-Ol06rCK?usp=sharing
+
 ## 1. Выбор датасета.
 
 Мне хотелось, чтобы датасет был хорошо собран и достаточно понятно описан. Кроме того, важен размер: на совсем маленькой выборке тяжело работать. После просмотра нескольких наборов данных на платформе kaggle, я остановился на этом наборе данных: https://www.kaggle.com/competitions/sentiment-analysis-on-movie-reviews/code
